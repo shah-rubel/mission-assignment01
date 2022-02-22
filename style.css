@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    
+    font-family: 'Gideon Roman', cursive;
+    
+    
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+   
+   
+}
+.total-area{
+    display: flex;
+
+}
+.half-area{
+    width: 50%;
+    padding: 5%;
+}
+.half-area h1{
+    font-size: 50px;
+}
+.half-area p{
+    font-size: 20px;
+    
+}
+.half-area img{
+    width: 80%;
+}
+.click-btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(215, 230, 89),rgb(115, 190, 29));
+    border-radius: 8px;
+    padding-top: 2%;
+    color: white;
+    font-size: 20px;
+}
+.mission-section{
+    margin-top: 5%;
+    
+}
+.mission-title{
+    text-align: center;
+    font-size: 45px;
+}
+.all-card{
+    display: flex;
+    padding-left: 5%;
+   
+   
+}
+.single-card{
+    margin-left: 5%;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 350px;
+    width: 300px;
+    
+}
+.card-img img{
+    width: 40%;
+}
+.card-details h4{
+    font-size: 20px;
+}
+.card-details p{
+    font-size: 15px;
+}
+#card-one{
+    background-color: rgb(149, 214, 240);
+}
+#card-two{
+    background-color: rgb(202, 240, 145);
+}
+#card-three{
+    background-color: rgb(162, 238, 166);
+}
+.develop-section{
+   margin-top: 5%;
+}
+.community-section{
+    margin-top: 5%;
+}
+.contact-section{
+    margin-top: 5%;
+}
+.sign-img{
+    width: 30%;
+}
+.input-box{
+    margin-top: 2%;
+    display: block;
+    margin : 0 auto;
+    
+    
+}
+.form-section{
+    background-color: rgb(138, 231, 151);
+    border-radius: 10px;
+
+}
+.input-details{
+    width: 600px;
+    margin: 0 auto;
+}
+input{
+    width: 100%;
+    height: 40px;
+    border: 1px solid rgb(183, 215, 241);
+    border-radius: 10px;
+    background-color: rgb(217, 237, 247);
+   
+}
+textarea{
+    width: 100%;
+    border: 1px solid rgb(183, 215, 241);
+    border-radius: 10px;
+    background-color: rgb(217, 237, 247);
+    color: rgb(113, 116, 116);
+    font-size: 15px;
+}
+footer{
+    margin-top: 5%;
+    padding: 2%;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.special-color{
+    color: rgb(117, 243, 144);
+}
